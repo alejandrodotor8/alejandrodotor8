@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Diego Alejandro</h1>
-<h2 align="center">Multimedia Engineer 👨‍💻 </h2>
+<h1 align="center">👋 Hi, I'm Diego Alejandro</h1>
+<H2 Align="Center">I'm a Multimedia Engineer 👨‍💻  and a Frontend Developer 💚</H2>
 <h4 align="center">from Bogotá, Colombia 🇨🇴</h4>
 
 <p align="center">
