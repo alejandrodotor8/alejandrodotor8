@@ -1,6 +1,6 @@
 ![me](https://raw.githubusercontent.com/alejandrodotor8/alejandrodotor8/master/img/portada.png)
 <h1 align="center">👋 Hi, I'm Diego Alejandro</h1>
-<H2 Align="Center">I'm a Multimedia Engineer 👨‍💻 and Frontend Developer 💚</H2>
+<h2 Align="Center">I'm a Multimedia Engineer 👨‍💻 and Frontend Developer 💚</h2>
 <h4 align="center">from Bogotá, Colombia 🇨🇴</h4>
 
 <p align="center">
@@ -16,3 +16,37 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="alejandrodotor" height="28px" width="28px" />
   </a>
 </p>
+
+<h2>Quick links 💼</h2>
+<ul>
+ <li>
+   <a href="https://vue-courses-app.netlify.app/" target="_blank">
+     <strong>CoursesApp</strong>
+  </a>
+   My first Vue.js application
+ </li>
+ <li>
+   <a href="https://breakingbadcast-app.netlify.app/" target="_blank">
+     <strong>BreakingBadCast</strong>
+  </a>
+    In this app you can check the breaking bad cast.
+ </li>
+ <li>
+   <a href="https://crypto-app-converter.netlify.app/" target="_blank">
+     <strong>Cryptoapp</strong>
+  </a>
+    Crypto Converter.
+ </li>
+ <li>
+   <a href="https://simon-says-game.netlify.app/" target="_blank">
+     <strong>simon says game</strong>
+  </a>
+    My first game.
+ </li>
+ <li>
+   <a href="https://clima-web.netlify.app/" target="_blank">
+     <strong>Climapp</strong>
+  </a>
+    here you can search the weather in real time of any city.
+ </li>
+</ul>
