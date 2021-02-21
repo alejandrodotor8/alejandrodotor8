@@ -21,32 +21,37 @@
 <ul>
  <li>
    <a href="https://vue-courses-app.netlify.app/" target="_blank">
-     <strong>CoursesApp</strong>
+     <strong>CoursesApp 🧑🏽‍💻</strong>
   </a>
+   <br>
    My first Vue.js application
  </li>
  <li>
    <a href="https://breakingbadcast-app.netlify.app/" target="_blank">
-     <strong>BreakingBadCast</strong>
+     <strong>BreakingBadCast 🧪</strong>
   </a>
+   <br>
     In this app you can check the breaking bad cast.
  </li>
  <li>
    <a href="https://crypto-app-converter.netlify.app/" target="_blank">
-     <strong>Cryptoapp</strong>
+     <strong>Cryptoapp 💰</strong>
   </a>
+   <br>
     Crypto Converter.
  </li>
  <li>
    <a href="https://simon-says-game.netlify.app/" target="_blank">
-     <strong>simon says game</strong>
+     <strong>Simon says game 🕹️</strong>
   </a>
+   <br>
     My first game.
  </li>
  <li>
    <a href="https://clima-web.netlify.app/" target="_blank">
-     <strong>Climapp</strong>
+     <strong>Climapp ☁️</strong>
   </a>
+   <br>
     here you can search the weather in real time of any city.
  </li>
 </ul>
