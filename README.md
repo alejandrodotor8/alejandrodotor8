@@ -19,12 +19,19 @@
 
 <h2>Quick links 💼</h2>
 <ul>
+  <li>
+   <a href="https://focusdolist.netlify.app/" target="_blank">
+     <strong>⚙️ FocusDoList 💡🔖</strong>
+  </a>
+   <br>
+   ToDo app, my first react app
+ </li>
  <li>
    <a href="https://vue-courses-app.netlify.app/" target="_blank">
      <strong>⚙️ CoursesApp 🧑🏽‍💻</strong>
   </a>
    <br>
-   My first Vue.js application
+   My first Vue.js web
  </li>
  <li>
    <a href="https://breakingbadcast-app.netlify.app/" target="_blank">
