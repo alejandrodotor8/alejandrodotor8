@@ -24,41 +24,41 @@
      <strong>⚙️ FocusDoList 💡🔖</strong>
   </a>
    <br>
-   ToDo app, my first react app
+   ToDo app, my first react app <a href="https://github.com/alejandrodotor8/FocusDoList" target="_blank">(Repo)</a>
  </li>
  <li>
    <a href="https://vue-courses-app.netlify.app/" target="_blank">
-     <strong>⚙️ CoursesApp 🧑🏽‍💻</strong>
+     <strong>⚙️ Courses Web 🧑🏽‍💻</strong>
   </a>
    <br>
-   My first Vue.js web
+   My first Vue.js web <a href="https://github.com/alejandrodotor8/Vue-courses-App" target="_blank">(Repo)</a>
  </li>
  <li>
    <a href="https://breakingbadcast-app.netlify.app/" target="_blank">
      <strong>✅ BreakingBadCast 🧪</strong>
   </a>
    <br>
-    In this app you can check the breaking bad cast.
+    In this app you can check the breaking bad cast. <a href="https://github.com/alejandrodotor8/BreakingBadCast" target="_blank">(Repo)</a>
  </li>
  <li>
    <a href="https://crypto-app-converter.netlify.app/" target="_blank">
      <strong>✅ Cryptoapp 💰</strong>
   </a>
    <br>
-    Crypto Converter.
+    Crypto Converter. <a href="https://github.com/alejandrodotor8/Cryptoapp" target="_blank">(Repo)</a>
  </li>
  <li>
    <a href="https://simon-says-game.netlify.app/" target="_blank">
      <strong>✅ Simon says game 🕹️</strong>
   </a>
    <br>
-    My first game.
+    My first JS game. <a href="https://github.com/alejandrodotor8/simonsays-game" target="_blank">(Repo)</a>
  </li>
  <li>
    <a href="https://clima-web.netlify.app/" target="_blank">
      <strong>⚙️ Climapp ☁️</strong>
   </a>
    <br>
-    here you can search the weather in real time of any city.
+    here you can search the weather in real time of any city. <a href="https://github.com/alejandrodotor8/Climapp" target="_blank">(Repo)</a>
  </li>
 </ul>
