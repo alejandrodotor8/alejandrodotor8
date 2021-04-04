@@ -56,7 +56,7 @@
  </li>
  <li>
    <a href="https://clima-web.netlify.app/" target="_blank">
-     <strong>⚙️ Climapp ☁️</strong>
+     <strong>⚙️ Climapp ☁️💻</strong>
   </a>
    <br>
     here you can search the weather in real time of any city. <a href="https://github.com/alejandrodotor8/Climapp" target="_blank">(Repo)</a>
