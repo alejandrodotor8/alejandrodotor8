@@ -28,7 +28,7 @@
  </li>
  <li>
    <a href="https://vue-courses-app.netlify.app/" target="_blank">
-     <strong>⚙️ Courses Web 🧑🏽‍💻</strong>
+     <strong>⚙️ Courses Web 🧑🏽‍💻</strong><i>Working on it</i>
   </a>
    <br>
    My first Vue.js web <a href="https://github.com/alejandrodotor8/Vue-courses-App" target="_blank">(Repo)</a>
