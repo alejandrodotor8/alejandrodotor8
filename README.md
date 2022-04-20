@@ -5,11 +5,11 @@
 ## 🚀 About Me
 I'm a Multimedia Engineer and Frontend Developer from Bogotá, Colombia 🇨🇴
 
-* 🧠 Nowadays, I'm learning JavaScript Frameworks at [Platzi](https://platzi.com/p/alejandrodotor8/) 💚 
+* 🧠 &nbsp;Nowadays, I'm learning JavaScript Frameworks at [Platzi](https://platzi.com/p/alejandrodotor8/) 💚 
 
-* 🌱 I want to learn more about backend technologies and mobile development
+* 🌱 &nbsp;I want to learn more about backend technologies and mobile development
 
-* 👨🏻‍💻 I'm currently working at Techedge Colombia as EIM Developer
+* 👨🏻‍💻 &nbsp;I'm currently working at Techedge Colombia as EIM Developer
 
 
 ## 🛠 Skills
@@ -20,7 +20,7 @@ Javascript, HTML, CSS, Vue, React, UX/UI...
 
 *   [**⚙️ FocusDoList 💡🔖**](https://focusdolist.netlify.app/)  
     ToDo app, my first react app [(Repo)](https://github.com/alejandrodotor8/FocusDoList)
-*   [**⚙️ Courses Web 🧑🏽‍💻**_Working on it_](https://vue-courses-app.netlify.app/)  
+*   [**⚙️ Courses Web 🧑🏽‍💻**_&nbsp;Working on it_](https://vue-courses-app.netlify.app/)  
     My first Vue.js web [(Repo)](https://github.com/alejandrodotor8/Vue-courses-App)
 *   [**✅ BreakingBadCast 🧪**](https://breakingbadcast-app.netlify.app/)  
     In this app you can check the breaking bad cast. [(Repo)](https://github.com/alejandrodotor8/BreakingBadCast)
