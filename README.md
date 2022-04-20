@@ -1,11 +1,11 @@
-👋 Hi, I'm Diego Alejandro
+👋 Hi, I'm [Alejandro](https://linktr.ee/alejandrodotor8)
 ==========================
 ![me](https://raw.githubusercontent.com/alejandrodotor8/alejandrodotor8/master/img/portada.png)
 
 ## 🚀 About Me
 I'm a Multimedia Engineer and Frontend Developer from Bogotá, Colombia 🇨🇴
 
-* 🧠 I'm currently learning JavaScript Frameworks at [Platzi](https://platzi.com/p/alejandrodotor8/) 💚 
+* 🧠 Nowadays, I'm learning JavaScript Frameworks at [Platzi](https://platzi.com/p/alejandrodotor8/) 💚 
 
 * 🌱 I want to learn more about backend technologies and mobile development
 
@@ -16,7 +16,7 @@ I'm a Multimedia Engineer and Frontend Developer from Bogotá, Colombia 🇨🇴
 Javascript, HTML, CSS, Vue, React, UX/UI...
 
 
-## Quick links 💼
+## 💼 Quick links
 
 *   [**⚙️ FocusDoList 💡🔖**](https://focusdolist.netlify.app/)  
     ToDo app, my first react app [(Repo)](https://github.com/alejandrodotor8/FocusDoList)
@@ -33,10 +33,10 @@ Javascript, HTML, CSS, Vue, React, UX/UI...
     
 ## 🏂 GitHub Activity
 
-[![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandrodotor8)](https://github.com/alejandrodotor8/github-readme-stats)
+[![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandrodotor8&show_icons=true&hide=issues)](https://github.com/alejandrodotor8/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrodotor8&layout=compact&theme=buefy)](https://github.com/alejandrodotor8/github-readme-stats)
 
-
+<br><br><br>
 <p align="right">
   <a href="https://www.linkedin.com/in/alejandrodotor8/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alejandrodotor8" height="28px" width="28px" />
