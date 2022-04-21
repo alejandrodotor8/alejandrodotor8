@@ -9,12 +9,7 @@ I'm a Multimedia Engineer and Frontend Developer from Bogotá, Colombia 🇨🇴
 
 * 🌱 &nbsp;I want to learn more about backend technologies and mobile development
 
-* 👨🏻‍💻 &nbsp;I'm currently working at Techedge Colombia as EIM Developer
-
-
-## 🛠 Skills
-Javascript, HTML, CSS, Vue, React, UX/UI...
-
+* 🦄 &nbsp;I Like UX/UI, check out my [Behance](https://www.behance.net/alejandrodotor8)
 
 ## 💼 Quick links
 
@@ -30,6 +25,10 @@ Javascript, HTML, CSS, Vue, React, UX/UI...
     My first JS game. [(Repo)](https://github.com/alejandrodotor8/simonsays-game)
 *   [**⚙️ Climapp ☁️💻**](https://clima-web.netlify.app/)  
     here you can search the weather in real time of any city. [(Repo)](https://github.com/alejandrodotor8/Climapp)
+    
+## 🛠 Skills
+![skills](https://raw.githubusercontent.com/alejandrodotor8/alejandrodotor8/master/img/Skils.png)
+
     
 ## 🏂 GitHub Activity
 
