@@ -15,8 +15,8 @@ I'm a Multimedia Engineer and Frontend Developer from Bogotá, Colombia 🇨🇴
 
 *   [**⚙️ FocusDoList 💡🔖**](https://focusdolist.netlify.app/)  
     ToDo app, my first react app [(Repo)](https://github.com/alejandrodotor8/FocusDoList)
-*   [**⚙️ Courses Web 🧑🏽‍💻**_&nbsp;Working on it_](https://vue-courses-app.netlify.app/)  
-    My first Vue.js web [(Repo)](https://github.com/alejandrodotor8/Vue-courses-App)
+*   [**⚙️ Courses 🧑🏽‍💻**_&nbsp;Working on it_](https://vue-courses-app.netlify.app/)  
+    Vuejs Courses web [(Repo)](https://github.com/alejandrodotor8/Vue-courses-App)
 *   [**✅ BreakingBadCast 🧪**](https://breakingbadcast-app.netlify.app/)  
     In this app you can check the breaking bad cast. [(Repo)](https://github.com/alejandrodotor8/BreakingBadCast)
 *   [**✅ Cryptoapp 💰**](https://crypto-app-converter.netlify.app/)  
