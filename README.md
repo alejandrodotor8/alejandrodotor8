@@ -13,17 +13,17 @@ I'm a Multimedia Engineer and Frontend Developer from Bogotá, Colombia 🇨🇴
 
 ## 💼 Quick links
 
-*   [**⚙️ FocusDoList 💡🔖**](https://focusdolist.netlify.app/)  
+*   [**⚙️ FocusDoList 💡🔖**](https://todo.alejandrodotor.com)  
     ToDo app, my first react app [(Repo)](https://github.com/alejandrodotor8/FocusDoList)
-*   [**⚙️ Courses 🧑🏽‍💻**_&nbsp;Working on it_](https://courses.alejandrodotor.com/)  
+*   [**⚙️ Courses 🧑🏽‍💻**_&nbsp;Working on it_](https://courses-app.alejandrodotor.com/)  
     Vuejs Courses web [(Repo)](https://github.com/alejandrodotor8/Vue-courses-App)
-*   [**✅ BreakingBadCast 🧪**](https://breakingbadcast-app.netlify.app/)  
+*   [**✅ BreakingBadCast 🧪**](https://castbb.alejandrodotor.com)  
     In this app you can check the breaking bad cast. [(Repo)](https://github.com/alejandrodotor8/BreakingBadCast)
-*   [**✅ Cryptoapp 💰**](https://crypto-app-converter.netlify.app/)  
+*   [**✅ Cryptoapp 💰**](https://crypto.alejandrodotor.com)  
     Crypto Converter. [(Repo)](https://github.com/alejandrodotor8/Cryptoapp)
-*   [**✅ Simon says game 🕹️**](https://simon-says-game.netlify.app/)  
+*   [**✅ Simon says game 🕹️**](https://simonsays.alejandrodotor.com)  
     My first JS game. [(Repo)](https://github.com/alejandrodotor8/simonsays-game)
-*   [**⚙️ Climapp ☁️💻**](https://clima-web.netlify.app/)  
+*   [**⚙️ Climapp ☁️💻**](https://climapp.alejandrodotor.com)  
     here you can search the weather in real time of any city. [(Repo)](https://github.com/alejandrodotor8/Climapp)
     
 ## 🛠 Skills
