@@ -27,7 +27,7 @@ I'm a Multimedia Engineer and Frontend Developer from Bogotá, Colombia 🇨🇴
     here you can search the weather in real time of any city. [(Repo)](https://github.com/alejandrodotor8/Climapp)
     
 ## 🛠 Skills
-![skills](https://raw.githubusercontent.com/alejandrodotor8/alejandrodotor8/master/img/Skils.png)
+![skills](https://raw.githubusercontent.com/alejandrodotor8/alejandrodotor8/master/img/Skills.png)
 
     
 ## 🏂 GitHub Activity
