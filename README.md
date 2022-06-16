@@ -14,7 +14,7 @@ I'm a Multimedia Engineer and Frontend Developer from Bogotá, Colombia 🇨🇴
 ## 💼 Quick links
 
 *   [**⚙️ FocusDoList 💡🔖**&nbsp;Working on it](https://todo.alejandrodotor.com)  
-    ToDo app, my first react app [(Repo)](https://github.com/alejandrodotor8/FocusDoList)
+    ToDo app, (React) [(Repo)](https://github.com/alejandrodotor8/FocusDoList)
 *   [**✅ Courses 🧑🏽‍💻**](https://courses-app.alejandrodotor.com/)  
     Vuejs Courses web [(Repo)](https://github.com/alejandrodotor8/Vue-courses-App)
 *   [**✅ BreakingBadCast 🧪**](https://castbb.alejandrodotor.com)  
