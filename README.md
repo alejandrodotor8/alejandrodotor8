@@ -23,8 +23,7 @@ I'm a Multimedia Engineer and Frontend Developer from Bogotá, Colombia 🇨🇴
     Crypto Converter. [(Repo)](https://github.com/alejandrodotor8/Cryptoapp)
 *   [**✅ Simon says game 🕹️**](https://simonsays.alejandrodotor.com)  
     My first JS game. [(Repo)](https://github.com/alejandrodotor8/simonsays-game)
-*   [**⚙️ Climapp ☁️💻**](https://climapp.alejandrodotor.com)  
-    here you can search the weather in real time of any city. [(Repo)](https://github.com/alejandrodotor8/Climapp)
+
     
 ## 🛠 Skills
 ![skills](https://raw.githubusercontent.com/alejandrodotor8/alejandrodotor8/master/img/Skills.png)
