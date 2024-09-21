@@ -1,8 +1,6 @@
-👋 Hi, I'm [Alejandro](https://linktr.ee/alejandrodotor8)
-==========================
-![me](https://raw.githubusercontent.com/alejandrodotor8/alejandrodotor8/master/img/portada.png)
+# 👋 Hi, I'm [Alejandro](https://linktr.ee/alejandrodotor8)
 
-## 🚀 About Me
+### 🚀 About Me
 I'm a Multimedia Engineer and Frontend Developer from Bogotá, Colombia 🇨🇴
 
 * 🧠 &nbsp;Nowadays, I'm learning JavaScript Frameworks at [Platzi](https://platzi.com/p/alejandrodotor8/) 💚 
@@ -11,7 +9,7 @@ I'm a Multimedia Engineer and Frontend Developer from Bogotá, Colombia 🇨🇴
 
 * 🦄 &nbsp;I Like UX/UI, check out my [Behance](https://www.behance.net/alejandrodotor8)
 
-## 💼 Quick links
+### 💼 Quick links
 
 *   [**⚙️ FocusDoList 💡🔖**&nbsp;Working on it](https://todo.alejandrodotor.com)  
     ToDo app, (React) [(Repo)](https://github.com/alejandrodotor8/FocusDoList)
@@ -25,11 +23,11 @@ I'm a Multimedia Engineer and Frontend Developer from Bogotá, Colombia 🇨🇴
     My first JS game. [(Repo)](https://github.com/alejandrodotor8/simonsays-game)
 
     
-## 🛠 Skills
+### 🛠 Skills
 ![skills](https://raw.githubusercontent.com/alejandrodotor8/alejandrodotor8/master/img/Skills.png)
 
     
-## 🏂 GitHub Activity
+### 🏂 GitHub Activity
 
 [![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandrodotor8&show_icons=true&hide=issues)](https://github.com/alejandrodotor8/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrodotor8&layout=compact&theme=buefy)](https://github.com/alejandrodotor8/github-readme-stats)
