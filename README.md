@@ -3,29 +3,6 @@
 ### 🚀 About Me
 I'm a Multimedia Engineer and Frontend Developer from Bogotá, Colombia 🇨🇴
 
-* 🧠 &nbsp;Nowadays, I'm learning JavaScript Frameworks at [Platzi](https://platzi.com/p/alejandrodotor8/) 💚 
-
-* 🌱 &nbsp;I want to learn more about backend technologies and mobile development
-
-* 🦄 &nbsp;I Like UX/UI, check out my [Behance](https://www.behance.net/alejandrodotor8)
-
-### 💼 Quick links
-
-*   [**⚙️ FocusDoList 💡🔖**&nbsp;Working on it](https://todo.alejandrodotor.com)  
-    ToDo app, (React) [(Repo)](https://github.com/alejandrodotor8/FocusDoList)
-*   [**✅ Courses 🧑🏽‍💻**](https://courses-app.alejandrodotor.com/)  
-    Vuejs Courses web [(Repo)](https://github.com/alejandrodotor8/Vue-courses-App)
-*   [**✅ BreakingBadCast 🧪**](https://castbb.alejandrodotor.com)  
-    In this app you can check the breaking bad cast. [(Repo)](https://github.com/alejandrodotor8/BreakingBadCast)
-*   [**✅ Cryptoapp 💰**](https://crypto.alejandrodotor.com)  
-    Crypto Converter. [(Repo)](https://github.com/alejandrodotor8/Cryptoapp)
-*   [**✅ Simon says game 🕹️**](https://simonsays.alejandrodotor.com)  
-    My first JS game. [(Repo)](https://github.com/alejandrodotor8/simonsays-game)
-
-    
-### 🛠 Skills
-![skills](https://raw.githubusercontent.com/alejandrodotor8/alejandrodotor8/master/img/Skills.png)
-
     
 ### 🏂 GitHub Activity
 
