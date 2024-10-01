@@ -3,11 +3,6 @@
 ### 🚀 About Me
 I'm a Multimedia Engineer and Frontend Developer from Bogotá, Colombia 🇨🇴
 
-    
-### 🏂 GitHub Activity
-
-[![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandrodotor8&show_icons=true&hide=issues)](https://github.com/alejandrodotor8/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrodotor8&layout=compact&theme=buefy)](https://github.com/alejandrodotor8/github-readme-stats)
 
 <br><br><br>
 <p align="right">
